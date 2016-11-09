@@ -10,4 +10,4 @@ ontological property matching to extract the *common* relation between the two K
 The system is built using the Spring MVC framework.
 
 **Frontend** 
-The frontend of this project was built using another framework (for curiosity). You can find it here: 
+The frontend of this project was built using another framework (for curiosity). You can find it here: https://github.com/vinid/WikiData-DBpedia-Summarizer-Frontend
